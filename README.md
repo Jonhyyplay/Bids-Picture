@@ -43,7 +43,7 @@ json-server --watch src/APIs/quadros.json --port 3000
 
 Isso fará com que a API rode em `http://localhost:3000/quadros`.
 
-☝️ Você também pode clicar com o botão direito na pasta onde está o quadros.json no VS Code e selecionar “Abrir no Terminal” para garantir que está no local certo.
+> ☝️ Você também pode clicar com o botão direito na pasta onde está o quadros.json no VS Code e selecionar “Abrir no Terminal” para garantir que está no local certo.
 
 ### 📌 4. Abrir o Projeto
 
